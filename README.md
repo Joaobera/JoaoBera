@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, sou o João Guilherme Bera 👋
+Desenvolvedor Back-End em formação, utilizo as linguagens C# e MySQL para criar APIs e enviar dados pela web. Atualmente procuro minha primeira oportunidade como estagiário na área de tecnologia, busco aprender sobre boas práticas no mercado de trabalho e desenvolver habilidades úteis na programação.
 
-<!--
-**Joaobera/JoaoBera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias e Ferramentas:
 
-Here are some ideas to get you started:
+    Linguagens: C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Banco de Dados: MySQL
+
+    Versionamento: Git e GitHub
+    
+
+Outros: HTML, CSS, JS (Básico)
+
+Onde me encontrar:
+
+    E-mail: joaobera.mail@gmail.com
